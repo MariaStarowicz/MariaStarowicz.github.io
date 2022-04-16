@@ -1497,11 +1497,13 @@ input, select, textarea {
 
 	header {
 		margin: 0 0 1.5em 0;
+		text-align: justify;
 	}
 
 		header > p {
 			margin: 0.5em 0 0 0;
-			color: #aaa;
+			
+			color: rgb(0, 0, 0);
 		}
 
 		@media screen and (max-width: 736px) {
