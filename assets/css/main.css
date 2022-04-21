@@ -1501,7 +1501,7 @@ input, select, textarea {
 	}
 
 		header > p {
-			margin: 0.5em 0 0 0;
+			margin: 0em 4em -1.0em 4em;
 			
 			color: rgb(0, 0, 0);
 		}
